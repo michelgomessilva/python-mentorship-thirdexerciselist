@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Mentorship](https://img.shields.io/badge/Mentorship-Squad%20Academy-purple)
 ![Status](https://img.shields.io/badge/Status-Learning%20Project-orange)
-![Last Commit](https://img.shields.io/github/last-commit/michelgomessilva/python-mentorship-exerciselist3)
+![Last Commit](https://img.shields.io/github/last-commit/michelgomessilva/python-mentorship-thirdexerciselist)
 
 This repository contains the **third practical programming logic exercise list in Python**, created by mentor **Michel Silva** for students of **Squad Academy**.
 
